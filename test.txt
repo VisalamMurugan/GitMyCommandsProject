@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EC51-19F9
+
+ Directory of C:\Users\124454\Desktop\GitMyProject
+
+05/24/2020  02:15 PM    <DIR>          .
+05/24/2020  02:15 PM    <DIR>          ..
+05/24/2020  02:15 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  164,892,250,112 bytes free
